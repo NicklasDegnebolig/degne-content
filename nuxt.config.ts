@@ -14,7 +14,8 @@ export default defineNuxtConfig({
   content: {
     navigation: {
       fields: ['author', 'publishedAt']
-    }
+    },
+    
   },
 
   compatibilityDate: '2024-08-01'
