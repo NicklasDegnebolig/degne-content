@@ -1,1 +1,0 @@
-import{r as s}from"./CU-td6-a.js";import{s as o,g as n,h as r,i as t,D as a}from"./Cr7inxoo.js";import"./Dnd51l0P.js";const l={},c={class:"table-of-contents"};function d(e,f){return n(),r("div",c,[t("h2",null,[s(e.$slots,"title",{},void 0,!0)]),t("ul",null,[a(e.$slots,"default",{},void 0,!0)])])}const m=o(l,[["render",d],["__scopeId","data-v-23319920"]]);export{m as default};
