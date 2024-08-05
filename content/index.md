@@ -1,6 +1,6 @@
 ---
-title: 'Title of the page'
-description: 'meta description of the page'
+title: Title of the page
+description: meta description of the page
 ---
 
 # Welcome
@@ -8,21 +8,22 @@ description: 'meta description of the page'
 ::fancy-header
 #header
 Here is my title
+
 #description
-This is an **awesome card** by *Nicklas Degnebolig*.
+This is an **awesome card** by _Nicklas Degnebolig_.
 
 - It supports markdown.
 - You can add lists.
-- You can add **bold** and *italic* text.
+- You can add **bold** and _italic_ text.
 - Even [links](https://example.com) work!
 
 > This is a blockquote.
 
-  ```js [file.js]{4-6,7} meta-info=val
-  export default () => {
-    console.log('Code block')
-  }
-  ```
+```js [file.js]
+export default () => {
+  console.log('Code block')
+}
+```
 
 #footer
 written by Nicklas Degnebolig.

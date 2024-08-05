@@ -1,9 +1,11 @@
 ---
-title: Learnings in Vue/Nuxt
-description: In the fast-paced world of digital product development, the synergy between UI designers and developers is crucial. Effective collaboration between these two roles can make the difference between a good product and a great one. This article explores the dynamics of UI design and development collaboration, offering insights, best practices, and real-world examples.
-image: https://source.unsplash.com/random/800x600
-slug: sample-blog-post
+title: Degnes Development | Learning Vue
+description: a blogpost about learning Nuxt3
 ---
+
+# Learnings in Vue/Nuxt
+
+In the fast-paced world of digital product development, the synergy between UI designers and developers is crucial. Effective collaboration between these two roles can make the difference between a good product and a great one. This article explores the dynamics of UI design and development collaboration, offering insights, best practices, and real-world examples.
 
 **Created on:** 2023-10-01
 
@@ -13,6 +15,7 @@ Custom Table of Contents Title
 
 - [Understanding UI Design](#understanding-ui-design)
 - [The Role of Developers in UI Design](#the-role-of-developers-in-ui-design)
+- [test of awesome stuff](/)
 ::
 
 ## Understanding UI Design
