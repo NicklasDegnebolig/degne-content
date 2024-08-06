@@ -1,0 +1,1 @@
+import{r as o}from"./BTHcagsU.js";import{s,g as r,h as n,i as t}from"./CBX_MAG_.js";import"./Dnd51l0P.js";const a={},c={class:"quote"};function d(e,u){return r(),n("div",c,[t("blockquote",null,[o(e.$slots,"quote",{},void 0,!0)]),t("cite",null,[o(e.$slots,"author",{},void 0,!0)])])}const _=s(a,[["render",d],["__scopeId","data-v-ad2cff97"]]);export{_ as default};

@@ -1,1 +1,0 @@
-import{r as o}from"./mv4HG-qO.js";import{s,g as t,h as r,i as n}from"./DZBCPC6Q.js";import"./Dnd51l0P.js";const c={},d={class:"infobox"};function a(e,i){return t(),r("div",d,[n("h3",null,[o(e.$slots,"title",{},void 0,!0)]),o(e.$slots,"description",{},void 0,!0)])}const p=s(c,[["render",a],["__scopeId","data-v-84dd90c6"]]);export{p as default};
