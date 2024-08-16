@@ -1,0 +1,1 @@
+import{r as o}from"./BSZBFar4.js";import{s,g as r,h as c,i as t}from"./BlO4tDVS.js";import"./Dnd51l0P.js";const a={},n={class:"quote"};function l(e,u){return r(),c("div",n,[t("blockquote",null,[o(e.$slots,"quote")]),t("cite",null,[o(e.$slots,"author")])])}const f=s(a,[["render",l]]);export{f as default};

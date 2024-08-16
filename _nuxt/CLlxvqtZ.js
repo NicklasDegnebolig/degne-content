@@ -1,0 +1,1 @@
+import{r as o}from"./BSZBFar4.js";import{s,g as t,h as r,i as n}from"./BlO4tDVS.js";import"./Dnd51l0P.js";const a={},c={class:"infobox"};function d(e,i){return t(),r("div",c,[n("h3",null,[o(e.$slots,"title",{},void 0,!0)]),o(e.$slots,"description",{},void 0,!0)])}const p=s(a,[["render",d],["__scopeId","data-v-a9f7e3aa"]]);export{p as default};

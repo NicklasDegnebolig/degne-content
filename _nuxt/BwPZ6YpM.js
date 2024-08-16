@@ -1,0 +1,1 @@
+import{r as o}from"./BSZBFar4.js";import{s,g as n,h as r,i as t,H as a}from"./BlO4tDVS.js";import"./Dnd51l0P.js";const l={},d={class:"table-of-contents flow"};function c(e,f){return n(),r("div",d,[t("h2",null,[o(e.$slots,"title",{},void 0,!0)]),t("ul",null,[a(e.$slots,"default",{},void 0,!0)])])}const m=s(l,[["render",c],["__scopeId","data-v-d48ae722"]]);export{m as default};
