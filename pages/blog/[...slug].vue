@@ -1,12 +1,14 @@
 <template>
-  <main>
-    <article v-if="post">
+  <div>
+    <article v-if="post" class="flow">
       <h1>{{ post.title }}</h1>
       <p>{{ post.description }}</p>
       <img :src="post.image" :alt="post.title" />
-       <ContentDoc :path="post._path" />
-    </article>
-  </main>
+      <section > 
+        <ContentDoc :path="post._path" class="flow" />
+      </section>
+      </article>
+  </div>
 </template>
 
 <script setup>

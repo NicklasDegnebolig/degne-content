@@ -1,7 +1,7 @@
 <template>
     <div>
       <h1>Blog</h1>
-      <div v-for="post in posts" :key="post.slug">
+      <div v-for="post in posts" :key="post.slug" class="flow">
         <h2>{{ post.title }}</h2>
         <p>{{ post.description }}</p>
         <img :src="post.image" :alt="post.title" />

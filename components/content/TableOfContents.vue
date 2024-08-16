@@ -1,5 +1,5 @@
 <template>
-    <div class="table-of-contents">
+    <div class="table-of-contents flow">
       <h2>
         <ContentSlot name="title"></ContentSlot>
       </h2>
@@ -12,26 +12,16 @@
 
   <style scoped>
   .table-of-contents {
-    margin: 16px 0;
-    padding: 16px;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    background-color: #f9f9f9;
+    border-radius: 1.5rem;
+    padding: 1rem;
+    background-color: var(--interactive-color);
   }
-  .table-of-contents h2 {
-    margin-top: 0;
-  }
+
   .table-of-contents ul {
     list-style-type: none;
     padding-left: 0;
   }
-  .table-of-contents li {
-    margin: 8px 0;
-  }
-  .table-of-contents a {
-    text-decoration: none;
-    color: #007bff;
-  }
+
   .table-of-contents a:hover {
     text-decoration: underline;
   }

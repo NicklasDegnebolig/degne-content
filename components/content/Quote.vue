@@ -10,18 +10,24 @@
   </template>
   
   
-  <style scoped>
-  .quote {
-    border-left: 4px solid #ccc;
-    padding-left: 16px;
-    margin: 16px 0;
+  <style>
+
+  blockquote {
+    border-inline-start-width: 0;
+    max-inline-size: var(--size--content-3);
+  }
+  blockquote p {
+    font-size:3rem;
     font-style: italic;
+    text-align: center;
+    font-weight: 100;
   }
   cite {
     display: block;
     text-align: right;
-    margin-top: 8px;
-    font-size: 0.9em;
-    color: #666;
+    border-inline-start-width:0px;
+    color: var(--secondary-text-color);
+    text-align: center;
+    max-inline-size: var(--size--content-3);
   }
   </style>
