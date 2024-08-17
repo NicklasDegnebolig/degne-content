@@ -1,10 +1,10 @@
 <template>
     <div class="quote">
       <blockquote> 
-         <ContentSlot name="quote"></ContentSlot>  
+         <ContentSlot name="quote" /> 
       </blockquote>
       <cite>
-         <ContentSlot name="author"></ContentSlot> 
+         <ContentSlot name="author" /> 
       </cite>
     </div>
   </template>
