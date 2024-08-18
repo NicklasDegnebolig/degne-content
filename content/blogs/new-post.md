@@ -21,7 +21,10 @@ Frontend development has undergone a tremendous transformation over the years. F
 
 ::quote
 #quote
-test af awesome quote
+"First, solve the problem. Then, write the code."
+
+#author
+John Johnson
 ::
 
 ## Modern Tools and Techniques
@@ -29,8 +32,9 @@ test af awesome quote
 Today's frontend developers have access to a plethora of tools that streamline the development process. From package managers like npm and Yarn to build tools like Webpack and Vite, the ecosystem is rich with resources that can make development faster and more efficient. Mastering these tools is essential for any developer looking to stay relevant in the field.
 
 ::info-box
+#title
+Key Insight
+
 #description
 Staying updated with modern tools and frameworks is crucial for developers to remain competitive in the rapidly evolving tech landscape
 ::
-
-\#title Key Insight
