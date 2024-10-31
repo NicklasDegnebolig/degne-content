@@ -5,6 +5,11 @@ description: meta description of the page
 
 # Welcome
 
+::info-box
+#title
+erger
+::
+
 ::fancy-header
 #header
 Here is my title
